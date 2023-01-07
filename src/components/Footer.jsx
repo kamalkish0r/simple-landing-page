@@ -2,7 +2,6 @@ import React from 'react'
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import TwitterIcon from '@mui/icons-material/Twitter';
 import EmailIcon from '@mui/icons-material/Email';
-import DragHandleIcon from '@mui/icons-material/DragHandle';
 
 const Footer = () => {
   return (

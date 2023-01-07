@@ -39,7 +39,7 @@ const Trust = () => {
 
         <div className="trust-gainers">
             {
-                factors.map((data, index) => {
+                factors.map((data, _) => {
                     return <Service logo = {data.logo} title = {data.title} description = {data.msg} />
                 })
             }
