@@ -6,7 +6,6 @@ const Branding = () => {
         <div className="message">
             <p>
                 Trusted and loved by world's best teams
-                Need to fix below
             </p>
         </div>
         <div className="brands">
